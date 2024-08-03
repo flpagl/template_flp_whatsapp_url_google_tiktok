@@ -1,5 +1,7 @@
 # template_flp_whatsapp_url_google_tiktok
 
+url grupo: git@github.com:flpagl/template_flp_whatsapp_url_google_tiktok.git
+
 #enviando branch
 git add . ; git commit -m "1" ; git push
 git push --set-upstream origin 1 #nome da branch no 1
