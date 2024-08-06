@@ -1,6 +1,6 @@
-# template_flp_whatsapphttps://google.com.brgoogle_tiktok
+# template_flp_whatsapphttps://chat.whatsapp.com/Ju1unbzejigI7iuaxj5rU6google_tiktok
 
-url grupo: git@github.com:flpagl/template_flp_whatsapphttps://google.com.brgoogle_tiktok.git
+url grupo: git@github.com:flpagl/template_flp_whatsapphttps://chat.whatsapp.com/Ju1unbzejigI7iuaxj5rU6google_tiktok.git
 
 #enviando branch
 git add . ; git commit -m "1" ; git push
